@@ -1,6 +1,6 @@
 import com.driver.WaterVehicle;
 
-public class Boat implements WaterVehicle {
+public class Boat implements WaterVehicle{
     private String name;
     private int capacity;
     public Boat(String name , int capacity){
